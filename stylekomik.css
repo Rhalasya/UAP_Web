@@ -1,0 +1,48 @@
+.index-container {
+    margin-top: 5%;
+    margin-left : 150px;
+}
+
+.btn-custom {
+    color: #dcd2c8;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #818f89; /* Bootstrap primary color */
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+h2{
+    margin-left: 200px;
+}
+
+.form-container {
+    background-color: #f5f1ea;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.form-label {
+    margin-top: 10px;
+}
+.form-control {
+    margin-bottom: 20px;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
+h3{
+    text-align: center;
+    color: #8f8681;
+    font-weight: bold;
+}
